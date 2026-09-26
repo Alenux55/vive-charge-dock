@@ -1,0 +1,9 @@
+[submodule "vive-charge-dock-pcba"]
+	path = vive-charge-dock-pcba
+	url = https://github.com/Alenux55/vive-charge-dock-pcba.git
+[submodule "vive-pogo"]
+	path = vive-pogo
+	url = https://github.com/Alenux55/vive-pogo.git
+[submodule "vive-pogo-enclosure"]
+	path = vive-pogo-enclosure
+	url = https://github.com/Alenux55/vive-pogo-enclosure.git
